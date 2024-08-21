@@ -1,6 +1,10 @@
 # KaizenOS
 
-KaizenOS is an AI-enabled operating system that integrates Whisper and GPT-4 technologies to provide seamless user interactions. Developed with a focus on user experience, KaizenOS offers powerful features, including natural language processing and AI-driven assistance, all within a modern and intuitive interface.
+KaizenOS is a voice-enabled assistant designed to streamline your workflow by integrating seamlessly with Apple Shortcuts and built-in Apple tools like [EventKit](https://developer.apple.com/documentation/eventkit). The primary goal of KaizenOS is to abstract backend tasks, such as updating your calendar, so you can focus on what matters most without worrying about the details and manual actions.
+
+Whether it's scheduling events or managing your daily tasks, KaizenOS handles it all in the background. We're also working on expanding these capabilities to include note-taking features with Obsidian and Notion, allowing you to effortlessly capture meeting notes or thoughts on the fly.
+
+To ensure that conversations flow smoothly, KaizenOS employs a custom cache memory management system that holds the context of the past 10 queries and responses. This system helps maintain continuity in interactions and ensures that KaizenOS gathers all the necessary context to provide accurate and relevant responses.
 
 ## Features
 
@@ -9,6 +13,7 @@ KaizenOS is an AI-enabled operating system that integrates Whisper and GPT-4 tec
 - **Dynamic UI**: Built with Swift and SwiftUI, offering a fluid and responsive user experience.
 - **Customizable Settings**: Easily accessible settings page to tailor the app to user preferences.
 - **Apple and Google Calendar Integration**: Seamlessly integrated with Apple Calendar and Google Calendar to manage events and reminders.
+- **Custom Cache Memory Management**: Holds the context of the past 10 queries and responses to ensure smooth conversation flow and accurate context gathering.
 - **Work in Progress**: We are actively working on integrating KaizenOS with Notion and Obsidian for enhanced productivity and note-taking capabilities.
 
 ## Installation
