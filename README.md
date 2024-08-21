@@ -9,7 +9,7 @@ KaizenOS is an AI-enabled operating system that integrates Whisper and GPT-4 tec
 - **Dynamic UI**: Built with Swift and SwiftUI, offering a fluid and responsive user experience.
 - **Customizable Settings**: Easily accessible settings page to tailor the app to user preferences.
 - **Apple and Google Calendar Integration**: Seamlessly integrated with Apple Calendar and Google Calendar to manage events and reminders.
-- **Partial Log-in Functionality**: While the log-in function prints successfully to the screen, we're actively working on updating the UI to reflect successful log-ins.
+- **Work in Progress**: We are actively working on integrating KaizenOS with Notion and Obsidian for enhanced productivity and note-taking capabilities.
 
 ## Installation
 
