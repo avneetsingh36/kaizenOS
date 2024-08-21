@@ -2,9 +2,9 @@
 
 KaizenOS is a voice-enabled assistant designed to streamline your workflow by integrating seamlessly with Apple Shortcuts and built-in Apple tools like [EventKit](https://developer.apple.com/documentation/eventkit). The primary goal of KaizenOS is to abstract backend tasks, such as updating your calendar, so you can focus on what matters most without worrying about the details and manual actions.
 
-Whether it's scheduling events or managing your daily tasks, KaizenOS handles it all in the background. We're also working on expanding these capabilities to include note-taking features with Obsidian and Notion, allowing you to effortlessly capture meeting notes or thoughts on the fly.
-
 To ensure that conversations flow smoothly, KaizenOS employs a custom cache memory management system that holds the context of the past 10 queries and responses. This system helps maintain continuity in interactions and ensures that KaizenOS gathers all the necessary context to provide accurate and relevant responses.
+
+Whether it's scheduling events or managing your daily tasks, KaizenOS handles it all in the background. We're also working on expanding these capabilities to include note-taking features with Obsidian and Notion, allowing you to effortlessly capture meeting notes or thoughts on the fly.
 
 ## Features
 
