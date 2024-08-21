@@ -5,7 +5,7 @@ KaizenOS is an AI-enabled operating system that integrates Whisper and GPT-4 tec
 ## Features
 
 - **AI Integration**: Powered by GPT-4 and Whisper, KaizenOS enables natural language processing and AI-driven conversations.
-- **User Authentication**: Secure sign-up and log-in functionality using Firebase Authentication.
+- **User Authentication**: Secure sign-up and log-in functionality using Google Firebase Authentication.
 - **Dynamic UI**: Built with Swift and SwiftUI, offering a fluid and responsive user experience.
 - **Customizable Settings**: Easily accessible settings page to tailor the app to user preferences.
 - **Apple and Google Calendar Integration**: Seamlessly integrated with Apple Calendar and Google Calendar to manage events and reminders.
