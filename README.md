@@ -28,7 +28,7 @@ Whether it's scheduling events or managing your daily tasks, KaizenOS handles it
   ```
 
 #### Add Your API Key
-Before running the project, you need to add your API key in the viewModel. Locate the view model file and insert your API key as instructed in the code comments.
+Before running the project, you need to add your API key in the ```ViewModel.swift```. Locate the view model file and insert your API key as instructed in the code comments.
 
 #### Run the Project
 Open the ```.xcworkspace``` file in Xcode, select your target device or simulator, and run the project.
