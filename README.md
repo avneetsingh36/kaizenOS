@@ -6,6 +6,7 @@ To ensure that conversations flow smoothly, Kaizen employs a custom cache memory
 
 Whether it's scheduling events or managing your daily tasks, KaizenOS handles it all in the background. We're also working on expanding these capabilities to include note-taking features with Obsidian and Notion, allowing you to effortlessly capture meeting notes or thoughts on the fly.
 
+If you want to watch the demo of the app, you can download and watch it [HERE](https://github.com/avneetsingh36/kaizenOS/blob/main/KaizenOS-Demo-Video.mov). Below are some pictures of the app:
 ___
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a07f63d0-4c9b-4c70-bda4-b9f0ef6f6c54" alt="IMG_6295" width="22%" />
@@ -16,7 +17,6 @@ ___
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/2c640f41-246c-4f5f-8692-3c6e11bc5d0b" alt="IMG_6297" width="22%" />
 </p>
-
 
 ___
 
