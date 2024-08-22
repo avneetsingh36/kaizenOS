@@ -10,7 +10,7 @@ class ViewModel: NSObject, AVAudioRecorderDelegate, AVAudioPlayerDelegate {
     
     private var calendarManager = CalendarManager()
 
-    
+    // Must Append your key HERE
     let client = OpenAIClient(apiKey: "put your key here")
  
     var audioPlayer: AVAudioPlayer!
