@@ -8,15 +8,18 @@ Whether it's scheduling events or managing your daily tasks, KaizenOS handles it
 
 If you want to watch the demo of the app, you can download and watch it [HERE](https://github.com/avneetsingh36/kaizenOS/blob/main/KaizenOS-Demo-Video.mov). Below are some pictures of the app:
 ___
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/a07f63d0-4c9b-4c70-bda4-b9f0ef6f6c54" alt="IMG_6295" width="20%" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/bac11e0d-7afc-4ad2-996c-e78f97c8de2f" alt="IMG_6298" width="20%" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/064864d3-27ae-4335-9b34-adc286aa2497" alt="IMG_6296" width="20%" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/2c640f41-246c-4f5f-8692-3c6e11bc5d0b" alt="IMG_6297" width="20%" />
-</p>
+
+<table align="center">
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/a07f63d0-4c9b-4c70-bda4-b9f0ef6f6c54" alt="IMG_6295" width="100%" /></td>
+    <td><img src="https://github.com/user-attachments/assets/bac11e0d-7afc-4ad2-996c-e78f97c8de2f" alt="IMG_6298" width="100%" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/064864d3-27ae-4335-9b34-adc286aa2497" alt="IMG_6296" width="100%" /></td>
+    <td><img src="https://github.com/user-attachments/assets/2c640f41-246c-4f5f-8692-3c6e11bc5d0b" alt="IMG_6297" width="100%" /></td>
+  </tr>
+</table>
+
 
 ___
 
