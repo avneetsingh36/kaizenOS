@@ -7,9 +7,12 @@ To ensure that conversations flow smoothly, Kaizen employs a custom cache memory
 Whether it's scheduling events or managing your daily tasks, KaizenOS handles it all in the background. We're also working on expanding these capabilities to include note-taking features with Obsidian and Notion, allowing you to effortlessly capture meeting notes or thoughts on the fly.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a07f63d0-4c9b-4c70-bda4-b9f0ef6f6c54" alt="IMG_6295" width="45%" style="display: inline-block; margin-right: 100px;" />
-  <img src="https://github.com/user-attachments/assets/064864d3-27ae-4335-9b34-adc286aa2497" alt="IMG_6296" width="45%" style="display: inline-block;" />
+  <img src="https://github.com/user-attachments/assets/a07f63d0-4c9b-4c70-bda4-b9f0ef6f6c54" alt="IMG_6295" width="20%" style="display: inline-block;" />
+  <img src="https://github.com/user-attachments/assets/bac11e0d-7afc-4ad2-996c-e78f97c8de2f" alt="IMG_6298" width="20%" style="display: inline-block;" />
+  <img src="https://github.com/user-attachments/assets/064864d3-27ae-4335-9b34-adc286aa2497" alt="IMG_6296" width="20%" style="display: inline-block;" />
+  <img src="https://github.com/user-attachments/assets/2c640f41-246c-4f5f-8692-3c6e11bc5d0b" alt="IMG_6297" width="20%" style="display: inline-block;" />
 </p>
+
 
 
 
